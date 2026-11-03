@@ -38,7 +38,8 @@ SIX = ["pt-PT", "hi", "lo", "ru", "fr-FR", "es-ES"]
 # the module docstring) have no word_exceptions at all, so these lists ARE the
 # battery for them; they are the cases the audit confirmed by hand.
 PINNED = {
-    "pt-PT": ["chuva", "as", "aves", "os", "dois", "irmãos", "estás", "ver"],
+    "pt-PT": ["chuva", "as", "aves", "os", "dois", "irmãos", "estás", "ver",
+              "guarda-chuva", "chamo-me"],
     "es-ES": ["seguro"],
     "ru": ["молоко"],
     "fr-FR": ["jeune", "agneau", "les", "amis"],
